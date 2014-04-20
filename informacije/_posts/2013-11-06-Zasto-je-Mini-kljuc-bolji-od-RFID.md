@@ -66,6 +66,9 @@ Kada se posmatra sistem sa RFID čitačem, pored toga što su kartice potrebne z
  </tr>
 </table>
 
+Pored ovih nedostataka, RFID kartice su podložne napadima hakera koji možete videti na https://www.youtube.com/watch?v=gTj5Ni7_zes
+
+
 U gradu postoji i sistem sa brojevnom tastaturom gde korisnici koriste četvorocifreni kod da bi otključali vrata, pa da opišemo i njihove nedostatke i prednosti TASTER KLJUČa.
 
 <table class="table table-striped special">
