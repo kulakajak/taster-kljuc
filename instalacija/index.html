@@ -4,7 +4,7 @@ layout: default
 css: slider
 ---
 
-Način povezivanja zavisi od modela vašeg interfona. Postoje tri vrste sistema koje podržava TASTER KLJUC &trade; : <span class="twowire"> dvožični</span>,<span class="fivewire"> petožični</span>,<span class="impuls"> impulsni</span> i <span class="unsupported">nepodržavani</span> sistem.
+Način povezivanja zavisi od modela vašeg interfona. Postoje tri vrste sistema na kojima radi TASTER KLJUC &trade; : <span class="twowire"> dvožični</span>,<span class="fivewire"> petožični</span>,<span class="impuls"> impulsni</span> i <span class="unsupported">nepodržavani</span> sistem. U Beogradu su najčešći Urmet <span class="fivewire"> petožični</span> i <span class="impuls"> impulsni</span>, u Novom Sadu Videx i Bitron <span class="twowire"> dvožični</span>, a jedino je TCS <span class="unsupported">nepodržan</span> sistem, ali se retko ugrađuje.
 
 
 <ul class="horizontal-slide list-inline selectable" id="brands"> </ul>
@@ -39,7 +39,9 @@ Pročitajte na interfonu ko je proizvođač i kliknite na sliku.
   </li>
 </ul>
 <br>
-Može se desiti da u okviru istog proizvođača tj. istog izgleda slušalice postoje <span class="twowire"> dvožični</span> i <span class="fivewire"> petožični</span> sistemi. <span class="twowire">Dvožični</span> se lako prepoznaje tako što se prilikom pritiska tastera za otključavanje prekida zvuk u slušalici, dok se kod <span class="fivewire"> petožičnog</span> sistema može pričati tokom otključavanja brave. <span class="impuls">Impulsni</span> sistem je petožično ili četvorožično povezivanje ali se koristi jednosmerna struja za slanje signala za otključavanje brave, za razliku od <span class="fivewire"> petožičnog</span> sistema gde se tasterom za otključavanje vrata spaja naizmenična (AC) struja.
+Može se desiti da u okviru istog proizvođača tj. istog izgleda slušalice postoje <span class="twowire"> dvožični</span>, <span class="impuls">impulsni</span> i <span class="fivewire"> petožični</span> sistemi (npr urmet). <span class="twowire">Dvožični</span> se lako prepoznaje tako što se prilikom pritiska tastera za otključavanje prekida zvuk u slušalici, dok se kod, <span class="impuls">impulsnog</span> i <span class="fivewire"> petožičnog</span> sistema može pričati tokom otključavanja brave.
+<br>
+<span class="impuls">Impulsni</span> sistem je petožično (ponekad četvorožično) povezivanje za koji je karakteristično tonsko zvono, a razlikuje se i po tome što se koristi jednosmerna (DC) struja za slanje signala za otključavanje brave, za razliku od <span class="fivewire"> petožičnog</span> sistema gde se tasterom za otključavanje vrata spaja naizmenična (AC) struja. Ukoliko ne možete da odredite da li je AC ili DC na provodniku za bravu, onda prvo stavite kratkospojnik na <span class="fivewire"> petožični</span> model pa isprobajte otključavanje. Ukoliko se brava drži otključana <b>stalno</b> (i posle isteka od 5 sekundi, kada bi trebalo da prestane otključavanje) onda prebacite kratko spojnik na <span class="impuls"> impulsno</span>. Nemojte spajati impulsno podešen taster ključ na <span class="fivewire"> petožični</span> sistem jer može doći do pregoveranja zaštitne diode. 
 <br>
 Spajanje na provodnike kod <span class="fivewire"> petožičnog</span> i <span class="impuls"> impulsnog</span> sistema se vrši po sledećem redosledu:<b>crni provodnik na GND(zajednička) od interfona, crveni provodnik na zvono od interfona, zeleni provodnik na vrata od interfona.
 
@@ -52,11 +54,12 @@ Ukoliko želite da ceo uređaj TASTER KLJUC stoji unutar interfonskog aparata on
 </script>
 
 <script>
-var imgArray = ["tehtel","urmet","elvox","farfisa","videx","bitron","tcs", "selti"];
+var imgArray = ["tehtel","elvox","farfisa","urmet","videx","bitron","tcs", "selti"];
 var modelsName = ["twowire", "fivewire", "impuls","unsupported"];
 var modelNaziv = ["dvožični", "petožični", "impulsni","nepodržan"];
 var imgArrayCount =
-[[[[2],],[],[[2],[2],],[],],[[[4],],[[2],],[[1],],[],],[[[1],[4],],[[2],[5],[3],],[],[],],[[[3],],[[2],[1],],[],[],],[[[3],[1],],[[1],],[],[],],[[[4],[5],[3],],[],[],[],],[[],[],[],[[1],[1],],],[[],[[2],],[],[],],];
+[[[[2],],[],[[2],[2],],[],],[[[1],[4],],[[2],[5],[3],],[],[],],[[[3],],[[2],[1],],[],[],],[[[4],],[[2],[2],[2],],[[2],[1],],[],],[[[3],[1],],[[1],],[],[],],[[[4],[5],[3],],[],[],[],],[[],[],[],[[1],[1],],],[[],[[2],],[],[],],];
+
 
 
 
