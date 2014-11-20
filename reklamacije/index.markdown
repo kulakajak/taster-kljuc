@@ -12,7 +12,11 @@ Samo da podsetimo da kvarovi nastali na interfonskom sistemu (interfonskoj sluš
 
 U nastavku je spisak nedostataka koje smo uočili i otklonili, ali se određena količina nalazi i dalje u prodaji:
 
- * zaštitna dioda na modelu AC3xxx ukoliko je povezan na potožični sistem može da probije (tada se stalno šalje signal da su otključana vrata) i u tom slučaju treba je otkloniti
- * 
+<a name="ac3dioda"></a>Dioda na modelima AC3xxx
+===
 
-  Sve nedostatke možete prijaviti na email reklamacija@tasterkljuc.rs ili popuniti formu na stranici [Knjiga utisaka](/reklamacije/knjiga-utisaka)
+ * zaštitna dioda na modelu AC3xxx ukoliko je povezan na potožični sistem (12V AC) može da probije (tada se stalno šalje signal da su otključana vrata) i u tom slučaju treba je otkloniti prilikom instalacije.
+ 
+
+
+Sve nedostatke možete prijaviti na email reklamacija@tasterkljuc.rs ili popuniti formu na stranici [Knjiga utisaka](/reklamacije/knjiga-utisaka)

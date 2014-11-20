@@ -116,8 +116,16 @@ $(function(){
                 var pinNumber = lines[i].split(" ")[0];
                 if (pinNumber!="")
                 {
-                  var color = lines[i].split(" ")[1];
-                  $("#connectionsPins").append("<tr><td>"+pinNumber+"</td><td class='"+color+"'>"+color+"</tr>");
+                  if (pinNumber[0] != '<')
+                  {
+                    var color = lines[i].split(" ")[1];
+                    $("#connectionsPins").append("<tr><td>"+pinNumber+"</td><td class='"+color+"'>"+color+"</tr>");
+                  }
+                  else
+                  {
+                    // its a html tag
+                    $("#connectionsPins").append("<tr><td colspan='2'>"+lines[i]+"</td></tr>");
+                  }
                 }
               }
             });
