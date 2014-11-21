@@ -15,8 +15,13 @@ U nastavku je spisak nedostataka koje smo uočili i otklonili, ali se određena 
 <a name="ac3dioda"></a>Dioda na modelima AC3xxx
 ===
 
- * zaštitna dioda na modelu AC3xxx ukoliko je povezan na potožični sistem (12V AC) može da probije (tada se stalno šalje signal da su otključana vrata) i u tom slučaju treba je otkloniti prilikom instalacije.
- 
+ * zaštitna dioda na modelu AC3xxx ukoliko je povezan na potožični sistem (12V AC) može da probije (tada se stalno šalje signal da su otključana vrata) i u tom slučaju treba je otkloniti prilikom instalacije. Ona se koristi kod  impulsnog interfonskog sistema kod kojih je jednosmerna struja za otključavanje vrata, nasuprod petožičnih interfonskih sistema gde je u pitanju naizmenična struja (uglavnom direktno povezana na interfonsku bravu na vratima). 
 
+   <img style="float: left" src="/assets/images/pictures/zadnja.png">
+<br>
+<br>
+   
+Ukloniti diodu koja se nalazi sa zadnje strane pločice sa desne strane označena crvenim krugom (može se slobodno ukloniti prstima ili noktima).
+<p style="clear: both" ></p>
 
-Sve nedostatke možete prijaviti na email reklamacija@tasterkljuc.rs ili popuniti formu na stranici [Knjiga utisaka](/reklamacije/knjiga-utisaka)
+Sve nedostatke možete prijaviti na email <a herf="reklamacija@tasterkljuc.rs">reklamacija@tasterkljuc.rs</a> ili popuniti formu na stranici [Knjiga utisaka](/reklamacije/knjiga-utisaka)
