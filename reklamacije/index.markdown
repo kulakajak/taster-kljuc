@@ -24,4 +24,4 @@ U nastavku je spisak nedostataka koje smo uočili i otklonili, ali se određena 
 Ukloniti diodu koja se nalazi sa zadnje strane pločice sa desne strane označena crvenim krugom (može se slobodno ukloniti prstima ili noktima).
 <p style="clear: both" ></p>
 
-Sve nedostatke možete prijaviti na email <a herf="reklamacija@tasterkljuc.rs">reklamacija@tasterkljuc.rs</a> ili popuniti formu na stranici [Knjiga utisaka](/reklamacije/knjiga-utisaka)
+Sve nedostatke možete prijaviti na email <a herf="reklamacije@trk-inovacije.com">reklamacije@trk-inovacije.com</a> ili popuniti formu na stranici [Knjiga utisaka](/reklamacije/knjiga-utisaka)
