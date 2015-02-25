@@ -18,7 +18,7 @@ Ova mogućnost pomaže poslodavcu da ne mora da prekida svoj važan posao zbog u
   </tr>
   <tr>
      <td>Uputstvo za upotrebu</td>
-     <td><a href="/assets/pdf/Uputstvo_za_koriscenje_radno_vreme_voice.pdf">Uputstvo_za_koriscenje_radno_vreme_voice.pdf </a></td>
+     <td><a href="/assets/pdf/Uputstvozaupotrebu-radnovreme.pdf">Uputstvozaupotrebu-radnovreme.pdf</a></td>
   </tr>
 
 </table>
