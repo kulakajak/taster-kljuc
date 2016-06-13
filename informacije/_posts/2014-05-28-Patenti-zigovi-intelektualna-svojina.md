@@ -22,4 +22,5 @@ Prilikom pisanja patenata, najteži zadak je bio pretraživanje postojećih pate
 Savetujemo da kada pišete prijavu patenta, u opisu stavite sve što znate i što bi moglo da koristi patentnoj zaštiti. Kasnije se mogu vršiti izmene patentih zahteva ali ne i proširivati opis i dodavati nove funkcionalnosti.
 Kada dođete do pisanja samih patentnih zahteva savetujemo da potražite patentnog savetnika, profesora ili advokata, bilo koga ko ima iskustva. Za pisanje opisa patenta ne treba iskustvo, ali za pisanje patentnih zahteva obavezno treba. Potražite nekog ko je iskusan i ko je učestvovao u pisanju nekoliko priznatih patenata, puno će vam vredeti njegova pomoć. Prijavljivanje patenata nije komplikovano i nije skupo, ali zahteva da dobro poznajete predmetnu oblast i da pratite najnovija dostignuća.
 
-Slobodno nam pišite ukoliko imate neka pitanja vezana za intelektualnu svojinu, naš [tim](http://www.trk-inovacije.com/contact-us) će vam rado odgovoriti.
+Slobodno nam pišite ukoliko imate neka pitanja vezana za intelektualnu svojinu,
+naš [tim](http://www.trk.in.rs) će vam rado odgovoriti.
