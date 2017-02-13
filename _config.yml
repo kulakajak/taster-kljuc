@@ -4,7 +4,6 @@ description: Taster ključ tm je interfonski dodatak koji zamenjuje vaš ključ 
 author: TRK INOVACIJE DOO NOVI SAD www.trk.in.rs
 url: http://tasterkljuc.trk.in.rs
 
-markdown: redcarpet
 pygments: true
 permalink: /:categories/:title
 
