@@ -20,7 +20,15 @@ Ova mogućnost pomaže poslodavcu da ne mora da prekida svoj važan posao zbog u
      <td>Uputstvo za upotrebu</td>
      <td><a href="/assets/pdf/Uputstvozaupotrebu-radnovreme.pdf">Uputstvozaupotrebu-radnovreme.pdf</a></td>
   </tr>
-
+  <tr>
+    <td>Cena</td>
+    <td>Ovaj uređaj će zameniti vašu sekretaricu (koja tada može da radi mnogo
+    korisnije stvari od otključavanja interfona) i ubrzati ulazak vaših
+    klijenata.
+    Možete iznajmiti uređaj za 1.000 dinara mesečno ili ga otkupiti.
+      </td>
+    <td>20 000 din</td>
+  </tr>
 </table>
 
 
