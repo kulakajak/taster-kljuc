@@ -1,12 +1,11 @@
 ---
-css: custom
 title: Patenti, žigovi, intelektualna svojina...
 layout: post
 category: informacije
 tags: mini-kljuc
 ---
 
-<table style="width:370px;"><tr><td>
+<table class="table-image"><tr><td>
 <img src="/assets/images/news/patent_stamp-stuart_miles.jpg" width="300"/>
   </td><td>
 Image courtesy of

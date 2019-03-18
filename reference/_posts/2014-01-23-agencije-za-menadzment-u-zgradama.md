@@ -6,7 +6,7 @@ category: reference
 tags: mini-kljuc 
 ---
 
-<table style="width:400px"><tr><td>
+<table class="table-image"><tr><td>
 <img src="/assets/images/news/maior-domus.jpg"  />
 </td><td>
 Image courtesy of Maior Domus doo

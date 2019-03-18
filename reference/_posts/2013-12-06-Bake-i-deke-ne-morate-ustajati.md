@@ -5,7 +5,7 @@ category: reference
 tags: mini-kljuc
 ---
 
-<table><tr><td>
+<table class="table-image"><tr><td>
 <img src="/assets/images/news/deda_africa.jpg" />
 </td><td>
 Image courtesy of africa/FreeDigitalPhotos.net

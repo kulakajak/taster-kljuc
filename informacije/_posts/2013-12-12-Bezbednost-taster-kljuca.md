@@ -5,7 +5,7 @@ category: informacije
 tags: mini-kljuc 
 ---
 
-<table><tr><td>
+<table class="table-image"><tr><td>
 <img src="/assets/images/news/katanac_Gualberto107.jpg" />
 </td><td>
 Image courtesy of Gualberto107/FreeDigitalPhotos.net
@@ -59,7 +59,7 @@ Odgovor je da se to u praksi NE DOGAĐA iz nekoliko prostih razloga. Čak i ako 
 3
 </td><td>
 <b>Lako se menja lozinka</b>
-</td></td>
+</td></tr>
 <tr><td>
  <ul>
   <li>
@@ -68,7 +68,6 @@ Odgovor je da se to u praksi NE DOGAĐA iz nekoliko prostih razloga. Čak i ako 
  </ul>
 </td></tr>
 </table>
-
 
 U slučaju da se desi da neko sumljiv uporno stoji pored vas kada treba da uđete, savet je da ubacite proizvoljno pritiskanje pre vašeg tajnog ključa. Ovakvo "vremenski kodirano pritiskanje" je mnogo teže uočiti od ukucavanja PIN koda kada koristite bankomate da podižete novac i zato ne morate da brinete. Taster ključ je tu samo da vam pomogne.
 

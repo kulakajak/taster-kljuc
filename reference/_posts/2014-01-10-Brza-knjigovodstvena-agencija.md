@@ -5,7 +5,7 @@ category: reference
 tags: radno-vreme 
 ---
 
-<table><tr><td>
+<table class="table-image"><tr><td>
 <img src="/assets/images/news/business-dream_designs.jpg" />
 </td><td>
 Image courtesy of dream_designs/FreeDigitalPhotos.net

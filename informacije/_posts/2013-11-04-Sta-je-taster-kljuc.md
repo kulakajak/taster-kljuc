@@ -1,12 +1,11 @@
 ---
-css: custom
 title: Šta je Taster Ključ - mini ključ ?
 layout: post
 category: informacije
 tags: mini-kljuc 
 ---
 
-<div style="float:right">
+<div class="table-image">
 <img src="/assets/images/news/kljucevi_stockimages.jpg"  />
 <p>
 <img src="/assets/images/news/kanta_scottchan.jpg" width="300"    style="display:block"/>

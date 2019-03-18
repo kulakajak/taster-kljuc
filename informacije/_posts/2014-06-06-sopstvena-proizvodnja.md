@@ -1,12 +1,11 @@
 ---
-css: custom
 title: Sopstvena proizvodnja...
 layout: post
 category: informacije
 tags: mini-kljuc
 ---
 
-<table style="width:370px;"><tr><td>
+<table class="table-image"><tr><td>
 <img src="/assets/images/news/smd_lemljenje.png" width="300"/>
   </td><td>
 Image courtesy of

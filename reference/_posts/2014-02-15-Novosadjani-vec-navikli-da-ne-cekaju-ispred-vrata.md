@@ -5,7 +5,7 @@ category: akcije
 tags: mini-kljuc 
 ---
 
-<table style="width:370px;"><tr><td>
+<table class="table-image"><tr><td>
 <img src="/assets/images/news/winner-stuart_miles.jpg" width="300"/>
   </td><td>
 Image courtesy of

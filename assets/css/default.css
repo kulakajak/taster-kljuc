@@ -18,3 +18,15 @@ a:visited {
 ul.footer {
   font-size: 22px;
 }
+.table-image {
+  float: right;
+  table-layout: fixed;
+}
+.table-image tr td:last-child {
+  white-space: nowrap;
+  display: inline-block;
+  width: 20px;
+  transform:
+    rotate(90deg)
+    translate(-10px, -25px);
+}

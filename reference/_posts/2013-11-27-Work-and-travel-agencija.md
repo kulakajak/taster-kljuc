@@ -5,7 +5,7 @@ category: reference
 tags: radno-vreme 
 ---
 
-<table style="width:400px"><tr><td>
+<table class="table-image"><tr><td>
 <img src="/assets/images/news/city_naypong.jpg" />
 </td><td>
 Image courtesy of anekoho/FreeDigitalPhotos.net

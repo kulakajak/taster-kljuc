@@ -6,7 +6,7 @@ category: reference
 tags: mini-kljuc
 ---
 
-<table style="width:370px;"><tr><td>
+<table class="table-image"><tr><td>
 <img src="/assets/images/news/winner-salvatore_vuono.jpg" width="300"/>
   </td><td>
 Image courtesy of

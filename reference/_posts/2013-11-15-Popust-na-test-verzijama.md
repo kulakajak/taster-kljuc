@@ -5,7 +5,7 @@ category: akcije
 tags: mini-kljuc 
 ---
 
-<table ><tr><td>
+<table class="table-image"><tr><td>
 <img src="/assets/images/news/deliveryMan-naypong.jpg" />
 </td><td>
 Image courtesy of naypong/FreeDigitalPhotos.net

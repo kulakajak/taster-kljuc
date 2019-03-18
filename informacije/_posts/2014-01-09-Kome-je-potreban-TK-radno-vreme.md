@@ -1,12 +1,11 @@
 ---
-css: custom
 title: Kome je potreban TK - radno vreme ?
 layout: post
 category: informacije
 tags: radno-vreme
 ---
 
-<table style="width:370px;"><tr><td>
+<table class="table-image"><tr><td>
 <img src="/assets/images/news/woman_phone_fdpn_Ambro.jpg" />
 </td><td>
 Image courtesy of Ambro/FreeDigitalPhotos.net

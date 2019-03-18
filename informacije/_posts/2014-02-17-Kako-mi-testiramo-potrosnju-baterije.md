@@ -1,5 +1,4 @@
 ---
-css: custom
 title: Kako mi testiramo potrošnju baterije ?
 layout: post
 category: informacije
